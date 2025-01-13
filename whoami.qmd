@@ -7,3 +7,7 @@ format:
 ---
 
 Presentation, ...
+
+```         
+![hey](W:\01_just_CDE\02_people\05_Sabina\surveys\email + flyer\picture_flyer.jpg.png) {width=85% fig-align="center"}
+```
