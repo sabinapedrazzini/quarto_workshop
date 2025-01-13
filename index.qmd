@@ -8,4 +8,4 @@ format:
     linestretch: 1.7
 ---
 
-Welcome on my website, ...
+Welcome on my website :)
