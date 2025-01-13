@@ -4,25 +4,21 @@ project:
 
 website:
   page-navigation: true
-  title: "Sabina's test website"
+  title: "Sabina Pedrazzini"
 
   navbar:
     left:
       - href: index.qmd
         text: Home
         
-      - href: setup.qmd  
-        text: Set up
-        
-      - href: tutorial.qmd
-        text: Tutorial
-        
-      - href: slides.qmd
-        text: Slides
+      - href: whoami.qmd  
+        text: Who am I?
         
     right: 
       - icon: github
-        href: https://github.com/andreaczhang/workshop-02quarto
+        href: https://github.com/sabinapedrazzini
+      - icon: linkedin
+        href: https://ch.linkedin.com/in/sabina-pedrazzini-543051169
         
 format:
   html:
