@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Sabina's test website"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+      - href: setup.qmd  
+        text: Set up
+        
+      - href: tutorial.qmd
+        text: Tutorial
+        
+      - href: slides.qmd
+        text: Slides
+        
+    right: 
+      - icon: github
+        href: https://github.com/andreaczhang/workshop-02quarto
+        
+format:
+  html:
+    theme: styles.scss
+    toc: true
