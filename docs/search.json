@@ -7,17 +7,17 @@
     "text": "Welcome on my website :)"
   },
   {
-    "objectID": "whoami.html",
-    "href": "whoami.html",
-    "title": "Who am I?",
-    "section": "",
-    "text": "Presentation, …\n\n\n\nhey"
-  },
-  {
     "objectID": "mywork.html",
     "href": "mywork.html",
     "title": "My work",
     "section": "",
     "text": "Here is my work."
+  },
+  {
+    "objectID": "whoami.html",
+    "href": "whoami.html",
+    "title": "Who am I?",
+    "section": "",
+    "text": "Presentation, …"
   }
 ]

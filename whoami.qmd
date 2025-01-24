@@ -7,7 +7,3 @@ format:
 ---
 
 Presentation, ...
-
-![hey](images/picture_flyer-01.jpg){fig-alt="ddd" fig-align="center"}
-
-![]()
