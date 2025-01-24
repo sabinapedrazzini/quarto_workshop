@@ -8,6 +8,6 @@ format:
 
 Presentation, ...
 
-```         
-![hey](W:\01_just_CDE\02_people\05_Sabina\surveys\email + flyer\picture_flyer.jpg.png) {width=85% fig-align="center"}
-```
+![hey](images/picture_flyer-01.jpg){fig-alt="ddd" fig-align="center"}
+
+![]()

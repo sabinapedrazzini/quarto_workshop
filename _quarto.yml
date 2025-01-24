@@ -13,11 +13,11 @@ website:
         
       - href: whoami.qmd  
         text: Who am I?
-        
+    
+    right:
       - href: mywork.qmd
         text: My work
         
-    right: 
       - icon: github
         href: https://github.com/sabinapedrazzini
       - icon: linkedin
