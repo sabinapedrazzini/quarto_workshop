@@ -2,20 +2,20 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sabina Pedrazzini",
+    "title": "TEST WEBSITE",
     "section": "",
     "text": "Welcome on my website :)"
   },
   {
-    "objectID": "mywork.html",
-    "href": "mywork.html",
+    "objectID": "mywork/index.html",
+    "href": "mywork/index.html",
     "title": "My work",
     "section": "",
     "text": "Here is my work."
   },
   {
-    "objectID": "whoami.html",
-    "href": "whoami.html",
+    "objectID": "whoami/index.html",
+    "href": "whoami/index.html",
     "title": "Who am I?",
     "section": "",
     "text": "Presentation, …"

@@ -11,10 +11,10 @@ website:
     logo: images/flower.png
     left:
         
-      - href: whoami.qmd  
+      - href: whoami/index.qmd  
         text: Who am I?
         
-      - href: mywork.qmd
+      - href: mywork/index.qmd
         text: My work
     
     right:

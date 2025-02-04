@@ -1,22 +1,28 @@
 ---
-title: "Sabina Pedrazzini"
+title: "TEST WEBSITE"
 subtitle: "Will it work?"
 format: 
   html:
     toc: true
     toc-depth: 2
     linestretch: 1.7
+---
+
+---
 about:
   template: jolla
-  id: about
+  id: block1
   image: images/flower.png
   links:
    - icon: linkedin
-     text: LinkedIn
      href: https://ch.linkedin.com/in/sabina-pedrazzini-543051169
+   - icon: instagram
+     href: https://marvinschmitt.github.io/quarto-website-template/
 ---
 
-``` {#about}
-```
+::: {#block1}
+:::
+
+<!-- note: to create the block above (which "calls" the yaml block):1) go on "Source" mode2) :::{#bock1}:::-->
 
 Welcome on my website :)
