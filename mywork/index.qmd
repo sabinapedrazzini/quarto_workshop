@@ -2,14 +2,13 @@
 title: "My work"
 toc: true
 toc-location: right
-toc-title: "Content"
-#toc-color: "#CBC3E3"
+toc-title: " "
 ---
 
-# work 1
+## Work 1
 
-## subtitle
+### subtitle
 
-# work 2
+## Work 2
 
 Here is my work.

@@ -17,10 +17,10 @@ website:
       - href: mywork/index.qmd
         text: "My work"
         #to create a menu (if too many things to display)
-      - text: More
-        menu:
-         - whoami/index.qmd
-         - mywork/index.qmd
+      #- text: More
+      #  menu:
+      #   - whoami/index.qmd
+      #   - mywork/index.qmd
     
     right:
       - icon: github
@@ -29,22 +29,24 @@ website:
         href: https://ch.linkedin.com/in/sabina-pedrazzini-543051169
       - icon: envelope
         href: "mailto:sabina.pedrazzini@gmail.com"
+        
+
 #sidebar = on the side
   sidebar:
     title: "My work" #this should display it only on the page called "My work"; if the title is not specified, the sidebar will appear on every page
-    tools: 
-      - icon: github
-        href: https://github.com/sabinapedrazzini
+    #tools: 
+    #  - icon: github
+    #    href: https://github.com/sabinapedrazzini
     style: "floating" #"docked" if we want it more separated from the body text
     search: false
     contents:
-      - text: "Introduction"
-        href: whoami/index.qmd
-      - section: "Basics"
+      - text: "Home"
+        href: index.qmd
+     # - section: "Basics"
         #href: mywork/index.qmd
-        contents:
-         - text: "Home"
-           href: index.qmd
+     #   contents:
+       #  - text: "Home"
+      #     href: index.qmd
 
   page-footer: 
     left: |

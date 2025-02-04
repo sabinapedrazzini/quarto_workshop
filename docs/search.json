@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "TEST WEBSITE",
+    "title": "Welcome!",
     "section": "",
-    "text": "Welcome on my website :)\n\nView the tutorial for this template (+ download link)"
+    "text": "Welcome on my website :)\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "mywork/index.html#work-2",
+    "href": "mywork/index.html#work-2",
+    "title": "My work",
+    "section": "Work 2",
+    "text": "Work 2\nHere is my work."
   },
   {
     "objectID": "whoami/index.html",
