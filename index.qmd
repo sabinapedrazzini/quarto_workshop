@@ -26,3 +26,9 @@ about:
 <!-- note: to create the block above (which "calls" the yaml block):1) go on "Source" mode2) :::{#bock1}:::-->
 
 Welcome on my website :)
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```

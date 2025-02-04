@@ -1,9 +1,15 @@
 ---
 title: "My work"
-format: 
-  html:
-    toc: true
-    toc-depth: 3
+toc: true
+toc-location: right
+toc-title: "Content"
+#toc-color: "#CBC3E3"
 ---
+
+# work 1
+
+## subtitle
+
+# work 2
 
 Here is my work.
